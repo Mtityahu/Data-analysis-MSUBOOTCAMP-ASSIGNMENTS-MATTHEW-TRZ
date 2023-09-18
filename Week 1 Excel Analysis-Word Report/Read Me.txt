@@ -1,0 +1,9 @@
+"Convert timestamp to date" 
+URL: https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
+
+Quoted code:
+			 =(((A1/60)/60)/24)+DATE(1970,1,1) 
+
+
+
+
